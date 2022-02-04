@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import Game from '../pages/Game';
-import Profile from '../pages/Profile';
 
 class Header extends Component {
   render() {
